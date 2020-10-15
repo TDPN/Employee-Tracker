@@ -1,6 +1,14 @@
-# Employee-Tracker
-Architect and build a solution for managing a company's employees using node, inquirer,console table and MySQL.
+# employee-tracker
+A way to keep an eye on the employees in a large business
 
-Github: https://github.com/TDPN/Employee-Tracker
+## Technologies Used
+* JavaScript 
+* Node 
+* JavaScript
+* Express
 
-Included Index.js, Schema.sql, Seed.sql, connection.js, orm.js and Questions.js
+## Testing
+Testing was done with mySQL
+
+## Author
+Donald Nguyen
